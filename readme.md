@@ -4,3 +4,4 @@
 * whole Picture
 * npm scripts
 * task runners
+* *useful links at the end*
